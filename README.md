@@ -1,1 +1,1 @@
-# aio-video-player-reactjs
+# AIO Video Player React JS
